@@ -1,5 +1,10 @@
 PyGarmin Change Log
 
+3 Sept.
+
+Test
+
+
 0.7
 Fixed various bugs
 Brought up to date with CVS
